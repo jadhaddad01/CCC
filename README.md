@@ -1,2 +1,2 @@
-# CryptoCobraClub
-Official Website for Crypto Cobra
+# CCC
+Official Website for CCC
